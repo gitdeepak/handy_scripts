@@ -7,6 +7,8 @@
 # corporate VPN 
 # Also if your home subnet is not 192.168. then change
 # that below
+#
+#
 #######################################################
 
 # find ethernet zone.
